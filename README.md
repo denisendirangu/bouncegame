@@ -8,14 +8,6 @@ The objective is to navigate a small colored ball through various obstacles. The
 
 Welcome to Hue Hurdle, an exciting and addictive game that will test your reflexes and challenge your skills! Hue Hurdle is a simple yet challenging game where the objective is to keep a ball bouncing on the screen for as long as possible.
 
-## Features
-
-- Endless bouncing fun!
-- Simple and intuitive gameplay.
-- Responsive controls for an immersive experience.
-- Track and display your high score.
-- Beautiful graphics and animations.
-
 ## How to Play
 
 - Launch the game and start bouncing!
