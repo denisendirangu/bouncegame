@@ -97,11 +97,11 @@ function gameBall(level) {
         if (level === 2) {
             // Adjust game difficulty for level 2
             // Example: increase speed or add more obstacles
-            dy = 3;
+            dy = 2;
         } else if (level === 3) {
             // Adjust game difficulty for level 3
             // Example: increase speed or add more obstacles
-            dy = 4;
+            dy = 3;
         }
         if (gameArea.keys && gameArea.keys[38]) {
             dy = 2;
@@ -122,7 +122,7 @@ function gameBall(level) {
         if((distance == 11) || (gamePiece.y < Math.floor(gamePiece.canvasHeight/2))) {
             dy = -1;
         }
-        if (score >= 50 && level == 1) {
+        if (score >= 100 && level == 1) {
             // Increase the level when the score reaches 50
             level++;
             // Update game mechanics for level 2 here
