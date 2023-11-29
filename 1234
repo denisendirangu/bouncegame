@@ -1,0 +1,81 @@
+Page -1-4
+FACULTY OF INFORMATION TECHNOLOGY
+BACHELOR OF SCIENCE IN INFORMATICS AND COMPUTER SCIENCE
+END OF SEMESTER EXAMINATION
+ ICS 3102: MOBILE APPLICATION DEVELOPMENT
+DATE: 17th July 2018 Time: 2 Hours
+Instructions
+1. This examination consists of FIVE questions.
+2. Answer Question ONE (COMPULSORY) and any other TWO questions.
+Question One (30 marks)
+a) Differentiate between native, hybrid and web apps. (6mks)
+b) You have been approached by a start-up to develop a mobile application to test 
+the viability of their idea. After assessing their requirements, you realize the 
+application would not be complex and they would like to have both on Android and 
+Apple platform. With the understanding of the types of applications, their strengths 
+and weaknesses, what type of application between native and cross-platform would 
+you recommend to the start-up? Support your argument with two advantages of 
+your preferred choice as well two disadvantages of your non-preferred choice. 
+(5mks)
+c) The AndroidManifest.xml file is a significant file that all applications need. Define 
+what the Android Manifest file is and outline four functions of the manifest file in an 
+Android application. (6mks)
+d) The RecyclerView class is a more advanced and flexible version of ListView. In 
+order to display data to a recycler view, there are six parts that must be included. 
+Describe them. (6mks)
+Page -2-4
+e) Professional Android App Development conventions dictate that no resources 
+(strings, colours, dimensions) are to be hardcoded. Instead, these resources are 
+defined in a strings.xml, colors.xml files, and called by their name attribute in a 
+given layout. Write code snippets for a login page with two text fields and a button 
+to demonstrate the declaration of a string and a colour in a strings.xml and 
+colors.xml file, then a corresponding layout that calls the given resource. (7mks)
+Question Two (15 marks)
+a) Buttons are user interface controls that respond to click events from a user to 
+perform specific actions. In android, there are two ways in which a click event can 
+be wired to an android application. Using code samples, illustrate how a button can 
+be clicked to start another activity in android. Include both xml code snippets and 
+java code snippets for each approach. (8mks)
+(hint: use an android:onClick attribute for one method and a click listener for the other) 
+b) Using appropriate examples, differentiate between explicit and Implicit intent types 
+in android (3mks)
+c) Android classifies permissions as normal or dangerous. Differentiate the two using 
+appropriate examples of each type of permission. (4mks)
+Question Three (15 marks)
+a) What is the key difference between a service and an activity? (1mk)
+b) Using an example of a popular mobile application, define a service in Android and 
+state how a service has been used in the mobile application (4mks)
+c) A notification in Android is created using the NotificationCompat.Builder class. 
+This class enables a developer to specify the components of the notification. Using 
+a code snippet, illustrate how you could define a notification to remind a user that 
+dinner is ready. 
+Page -3-4
+Hint (assign a small icon, text for a title, and the notification message) (5mks) 
+d) Android allows a developer to assign a priority level to each notification to 
+influence how the Android system will deliver it. Using appropriate examples, 
+describe the uses of the five priority constants a developer could define in their app 
+(5mks)
+Question Four (15 marks)
+a) How does Android know which components are in the application? (1mk)
+A. By type
+B. The manifest
+C. They are registered when Main() is called
+D. They are created when Oncreate() is called
+b) Of the many storage options, using a SQLite database is one of the most versatile, 
+and straightforward option to implement. Illustrate two scenarios where SQLite 
+would be ideal as a storage option (4mks)
+c) State a key difference between the following selection controls used in android. 
+Using XML code snippets, illustrate how the two components could be added to a 
+UI layout (10mks)
+ 
+Question Five (15 marks)
+a) Define the four component types of an android application (4mks)
+b) Which tool do you use to create a new emulator? (1mk)
+Page -4-4
+A. Android Device Monitor
+B. AVD Manager
+C. SDK Manager
+D. Theme Editor
+c) The image represents a simple signup interface of an Android application. Write the 
+appropriate xml code to create that simple layout, including attributes, input types, 
+string references for the hints contained within the text area. (10 marks)
